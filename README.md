@@ -6,7 +6,7 @@ Updated connections:
 Connect button on gpio A0.
 
 bluepill 	<-> 	DuT<br />
-B0+B1		  <->	  3V3 (Power input)<br />
+B0+B1		  <->	  3V3 (Power input) in parallel <br /> 
 B2		    <->	   BOOT0<br />
 B4		    <->	  ~RESET<br />
 
